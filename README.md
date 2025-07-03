@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">A Software developer from India</h3>
 
-- 🔭 I’m currently working on [MED_CONNECT – A full-stack healthcare platform connecting patients, doctors, and admins](https://github.com/ayushraj1223850/Med_Connect)
+- 🔭 I’m currently working on [Autonomous Self-Healing Agent Pipeline with Feedback Memory and Observability]
 
 - 🌱 I’m currently learning **DevOps, Product Management**
 
