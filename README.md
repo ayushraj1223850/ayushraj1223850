@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">A Software developer from India</h3>
 
-- 🔭 I’m currently working on [Autonomous Self-Healing Agent Pipeline with Feedback Memory and Observability]
+- 🔭I’m currently working on **Autonomous Self-Healing Agent Pipeline with Feedback Memory and Observability.**
 
 - 🌱 I’m currently learning **DevOps, Product Management**
-
-- 👯 I’m looking to collaborate on **Building self-healing CI/CD pipelines.**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ayushraj-12223850.netlify.app/](https://portfolio-ayushraj-12223850.netlify.app/)
 
