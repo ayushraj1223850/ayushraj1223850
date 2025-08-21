@@ -3,7 +3,7 @@
 
 - 🔭I’m currently working on **Autonomous Self-Healing Agent Pipeline with Feedback Memory and Observability.**
 
-- 🌱 I’m currently learning **DevOps, Product Management**
+- 🌱 I’m currently learning **FullStack Devlopment, DevOps, Product Management**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ayushraj-12223850.netlify.app/](https://portfolio-ayushraj-12223850.netlify.app/)
 
