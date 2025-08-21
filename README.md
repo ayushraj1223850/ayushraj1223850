@@ -31,3 +31,14 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushraj1223850&show_icons=true&locale=en&layout=compact" alt="ayushraj1223850" /></p>
 🧠 Always learning | 🤓 Always curious | 🛠️ Always building
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
