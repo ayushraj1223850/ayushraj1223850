@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 I’m currently working on an Event-Driven Microservices Retail POS Platform designed for Real-Time Inventory Sync, Distributed Workflows, and Reliable Transaction Processing.<br>I’m looking to collaborate on scalable backend systems, distributed architectures, and real-world problem-solving projects.<br>I’m currently learning FullStack Devlopment, DevOps, Product Management.<br>Ask me about building systems that don’t break at 3AM.<br>Fun fact If caffeine had a version control system, I’d be its top contributor.
 
 
@@ -12,12 +13,12 @@ I’m currently working on an Event-Driven Microservices Retail POS Platform des
 ![](https://streak-stats.demolab.com/?user=ayushraj1223850&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayushraj1223850&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=ayushraj1223850&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <h4 align="center">
   
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
